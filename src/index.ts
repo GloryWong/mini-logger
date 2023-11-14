@@ -67,7 +67,7 @@ export interface Logger {
 }
 
 function createLogger(namespace: string) {
-  const [info, warn, error, success, debug] = createLoggerMethods(
+  const [error, warn, info, success, debug] = createLoggerMethods(
     namespace.trim(),
   );
   const logger: Logger = (...args: Parameters<LoggerMethod>) => info(...args);
