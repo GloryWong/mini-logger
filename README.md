@@ -17,7 +17,7 @@ Thank you for your understanding.
 <h1 align="center">Welcome to mini-logger 👋</h1>
 <p>
   <a href="https://github.com/GloryWong/mini-logger/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-no-orange.svg" />
   </a>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/GloryWong/mini-logger" />
