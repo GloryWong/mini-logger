@@ -1,3 +1,19 @@
+# ⚠️ Deprecated Repository Notice ⚠️
+
+**⚠️ This repository is deprecated and no longer maintained as of Jun 27, 2024. ⚠️**
+
+## Reason for Deprecation
+
+This repository has been deprecated due to the development of a more advanced version [logger](https://github.com/GloryWong/logger).
+
+## Support
+
+Please note that no further updates or support will be provided for this repository.
+
+Thank you for your understanding.
+
+---
+
 <h1 align="center">Welcome to mini-logger 👋</h1>
 <p>
   <a href="https://github.com/GloryWong/mini-logger/graphs/commit-activity" target="_blank">
